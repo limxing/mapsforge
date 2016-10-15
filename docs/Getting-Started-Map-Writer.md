@@ -95,6 +95,10 @@ You need to be aware that this configuration only defines what data is to be inc
 
 ## Changelog
 
+### 0.7.0
+
+- Polygon label position enhancements
+
 ### 0.6.1
 
 - Add all tags from OSM wiki to area heuristics
